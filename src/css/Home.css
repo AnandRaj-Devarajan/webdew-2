@@ -1,0 +1,134 @@
+* {
+    background-color: #E5E5E5;
+  }
+  
+  #img2 {
+    height: 500.510009765625px;
+    width: 400.5900268554688px;
+    left: 153px;
+    top: 1295px;
+    border-radius: 10px;
+  
+  }
+  
+  input[type=checkbx] {
+    height: 7.5659050941467285px;
+    width: 10.808435440063477px;
+    left: 951.7552490234375px;
+    top: 1846.1947021484375px;
+    border-radius: 0px;
+    background-color: #EE3025;
+  
+  
+  }
+  
+  #submit {
+    height: 40.25482940673828px;
+    width: 150.60281372070312px;
+    left: 948px;
+    top: 1919px;
+    border-radius: 5px;
+    background-color: #EE3025;
+  
+  }
+  
+  #formHead {
+    font-family: 'futura PT';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 32px;
+    color: #EE3025;
+  }
+  
+  .article {
+    font-weight: 300;
+    line-height: 50px;
+  }
+  ul {
+    font-family: Arial;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 40px;
+    text-align: left;
+  }
+  #bob {
+    width: 100px;
+    height: 100px;
+    top: 36px;
+    bottom: 91px !important;
+  }
+  
+  #oval {
+    position: absolute;
+    width: 204.83px;
+    height: 204.83px;
+    left: 700px;
+    top: 131.33px;
+  }
+  
+  #ple {
+    margin-top: 100px;
+    position: absolute;
+    width: 292px;
+    height: 329px;
+    z-index: 1;
+  }
+  
+  #romain {
+    position: absolute;
+    margin-top: 300px;
+    width: 300px;
+    height: 370px;
+    transform: skew(0deg, 10deg);
+  }
+  
+  #dot {
+    
+    margin: 400px 20px 250px 150px;
+    width: 174.32px;
+    height: 200.25px;
+    
+  
+  }
+  
+  #h1 {
+    margin-top: 50px;
+    font-family: Arial;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: -0.02em;
+    text-align: left;
+  
+  }
+  
+  #l1 {
+    margin-bottom: 200px;
+  }
+  
+  #r3 {
+    margin-top: 100px;
+  }
+  
+  .ltext {
+    text-align: center;
+    position: absolute;
+    width: 216px;
+    left: 500px;
+    height: 32px;
+    margin-top: 50px;
+  
+    font-family: 'Futura PT';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 11px;
+    line-height: 32px;
+  
+    color: #707070;
+  
+  }
+  
+  
